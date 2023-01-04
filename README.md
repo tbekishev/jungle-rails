@@ -1,6 +1,17 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1.
+
+## Screenshots
+
+![Jungle](./docs/jungle1.png)
+![Jungle](./docs/jungle2.png)
+![Jungle](./docs/jungle3.png)
+
+## Admin/user features
+
+Admin can edit/delete/add products/categories
+Users can complete their purchase using Stripe.
 
 ## Setup
 
